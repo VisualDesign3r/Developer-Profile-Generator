@@ -1,0 +1,1 @@
+{"name":"jose","description":"IDK","license":[],"dependencies":"npm install","npm":"node","repo":"git","contributing":"git + inquierr","contact":"email"}
